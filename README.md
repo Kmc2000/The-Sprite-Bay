@@ -20,3 +20,17 @@ If you're a coder and you're seeing this, add them! that's what they're there fo
 
 
 Enjoy, Kmc2000
+
+
+////////////
+// Usage //
+///////////
+You're absolutely free to use the sprites however, just make sure that you accredit me to them, i don't want any sprites stealing
+
+
+
+//////////////
+// Issues   //
+//////////////
+
+I haven't filtered most of these, so some of these may be temporary icons, if you find one make an issue so i can remove it
